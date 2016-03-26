@@ -1,4 +1,3 @@
-//Google maps function
 //Needs to be outside of JQuery call all function as gets called from script tag in HTML
 function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
